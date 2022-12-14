@@ -13,12 +13,12 @@ This repository includes content for the "Data Mining and Machine Learning".
 - Week 6: [Classification 1 (Logistic Regression, Evaluation, Accuracy)](week6)
 - Week 7: [Classification 2 (kNN, Decision Trees)](week7)
 - Week 8: [No Lecture] 
-- Week 9: [Recommender Systems]
-- Week 10: [Text Analytics]
-- Week 11: [Neural Netowrks]
-- Week 12: [Dimensionality Reduction]
-- Week 13: [Clustering]
-- Week 14: [Social Implications of AI / Innovating with AI]
+- Week 9: [Text Analytics](week9)
+- Week 10: [Text Analytics 2](week10)
+- Week 11: [Neural Networks](week11)
+- Week 12: [Dimensionality Reduction](week12)
+- Week 13: [Clustering](week13)
+
 
 
 ## Data to explore
